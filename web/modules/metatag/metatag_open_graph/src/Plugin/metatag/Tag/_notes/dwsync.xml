@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArticleAuthor.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="ArticleExpirationTime.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="ArticleModifiedTime.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="ArticlePublishedTime.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="ArticlePublisher.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="ArticleSection.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="ArticleTag.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgCountryName.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgDescription.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgDeterminer.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgEmail.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgFaxNumber.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgImage.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgImageHeight.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgImageSecureUrl.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgImageType.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgImageUrl.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgImageWidth.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgLatitude.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgLocale.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgLocaleAlternative.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgLocality.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgLongitude.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgPhoneNumber.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgPostalCode.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgRegion.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgSeeAlso.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgSiteName.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgStreetAddress.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgTitle.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgType.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgUpdatedTime.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgUrl.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgVideo.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgVideoHeight.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgVideoSecureUrl.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgVideoType.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+<file name="OgVideoWidth.php" server="50.115.112.212" local="131498113200000000" remote="131522426400000000" />
+</dwsync>

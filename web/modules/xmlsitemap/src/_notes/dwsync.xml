@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="XmlSitemapException.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+<file name="XmlSitemapGenerationException.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+<file name="XmlSitemapGenerator.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+<file name="XmlSitemapGeneratorInterface.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+<file name="XmlSitemapIndexWriter.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+<file name="XmlSitemapInterface.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+<file name="XmlSitemapLinkStorage.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+<file name="XmlSitemapLinkStorageInterface.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+<file name="XmlSitemapListBuilder.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+<file name="XmlSitemapWriter.php" server="50.115.112.212" local="131498140200000000" remote="131522438400000000" />
+</dwsync>

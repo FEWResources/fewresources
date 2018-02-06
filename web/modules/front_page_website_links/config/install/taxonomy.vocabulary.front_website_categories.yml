@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies: {  }
+name: 'Front Website Categories'
+vid: front_website_categories
+description: 'Categories to define front page websites'
+hierarchy: 0
+weight: 0

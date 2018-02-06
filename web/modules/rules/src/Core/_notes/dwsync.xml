@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConditionManager.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="ConfigurationAccessControlInterface.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="ConfigurationAccessControlTrait.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="ExecutablePluginTrait.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesActionBase.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesActionInterface.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesActionManager.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesActionManagerInterface.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesConditionBase.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesConditionInterface.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesConfigurableEventHandlerInterface.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesDefaultEventHandler.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesEventHandlerInterface.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+<file name="RulesEventManager.php" server="50.115.112.212" local="131498118000000000" remote="131522429400000000" />
+</dwsync>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AliasCleaner.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="AliasCleanerInterface.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="AliasStorageHelper.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="AliasStorageHelperInterface.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="AliasTypeBatchUpdateInterface.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="AliasTypeInterface.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="AliasTypeManager.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="AliasUniquifier.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="AliasUniquifierInterface.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="MessengerInterface.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="PathautoGenerator.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="PathautoGeneratorInterface.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="PathautoItem.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="PathautoPatternInterface.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="PathautoPatternListBuilder.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="PathautoState.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="PathautoWidget.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+<file name="VerboseMessenger.php" server="50.115.112.212" local="131498116800000000" remote="131522428200000000" />
+</dwsync>

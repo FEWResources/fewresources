@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".travis.yml" server="50.115.112.212" local="131516928000000000" remote="131522424600000000" />
+<file name="CHANGELOG.txt" server="50.115.112.212" local="131516928000000000" remote="131522424600000000" />
+<file name="composer.json" server="50.115.112.212" local="131516928000000000" remote="131522424600000000" />
+<file name="DEVELOPING.md" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="LICENSE.txt" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.api.php" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.info.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.install" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.libraries.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.links.action.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.links.contextual.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.links.menu.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.links.task.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.module" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.permissions.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.plugin_type.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.routing.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.services.yml" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.theme.inc" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="media_entity.tokens.inc" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+<file name="README.md" server="50.115.112.212" local="131516928600000000" remote="131522424600000000" />
+</dwsync>

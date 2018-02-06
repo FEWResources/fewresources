@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConfigurationItem.php" server="50.115.112.212" local="131498106000000000" remote="131522421000000000" />
+<file name="FeaturesAssigner.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesAssignerInterface.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesAssignmentMethodBase.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesAssignmentMethodInterface.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesAssignmentMethodManager.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesBundleInterface.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesConfigDependencyManager.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesConfigInstaller.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesExtensionStorages.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesExtensionStoragesInterface.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesGenerationMethodBase.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesGenerationMethodInterface.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesGenerationMethodManager.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesGenerator.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesGeneratorInterface.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesInstallStorage.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesManager.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="FeaturesManagerInterface.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+<file name="Package.php" server="50.115.112.212" local="131498106600000000" remote="131522421000000000" />
+</dwsync>

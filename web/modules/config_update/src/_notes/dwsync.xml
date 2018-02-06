@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConfigDeleteInterface.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+<file name="ConfigDiffer.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+<file name="ConfigDiffInterface.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+<file name="ConfigListByProviderInterface.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+<file name="ConfigLister.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+<file name="ConfigListerWithProviders.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+<file name="ConfigListInterface.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+<file name="ConfigReverter.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+<file name="ConfigRevertEvent.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+<file name="ConfigRevertInterface.php" server="50.115.112.212" local="131511814200000000" remote="131522418000000000" />
+</dwsync>

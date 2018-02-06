@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BanIPTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="DataCalculateValueTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="DataConvertTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="DataListItemAddTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="DataListItemRemoveTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="DataSetTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="EntityCreateTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="EntityDeleteTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="EntityFetchByFieldTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="EntityFetchByIdTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="EntityPathAliasCreateTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="EntitySaveTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="PathAliasCreateTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="PathAliasDeleteByAliasTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="PathAliasDeleteByPathTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="RulesActionAccessTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="RulesComponentActionTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="SendAccountEmailTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="SystemMessageTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="SystemPageRedirectTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="SystemSendEmailTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="UserBlockTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="UserRoleAddTest.php" server="50.115.112.212" local="131498119200000000" remote="131522430000000000" />
+<file name="UserRoleRemoveTest.php" server="50.115.112.212" local="131498119800000000" remote="131522430000000000" />
+<file name="UserUnblockTest.php" server="50.115.112.212" local="131498119800000000" remote="131522430000000000" />
+<file name="VariableAddTest.php" server="50.115.112.212" local="131498119800000000" remote="131522430000000000" />
+</dwsync>

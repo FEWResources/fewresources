@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="core.entity_form_display.node.webform_demo_event.default.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+<file name="core.entity_view_display.node.webform_demo_event.default.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+<file name="core.entity_view_display.node.webform_demo_event.teaser.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+<file name="field.field.node.webform_demo_event.body.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+<file name="field.field.node.webform_demo_event.field_webform_demo_event_date.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+<file name="field.field.node.webform_demo_event.webform.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+<file name="field.storage.node.field_webform_demo_event_date.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+<file name="node.type.webform_demo_event.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+<file name="views.view.webform_demo_events.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+<file name="webform.webform.demo_event_registration.yml" server="50.115.112.212" local="131498122800000000" remote="131522433000000000" />
+</dwsync>

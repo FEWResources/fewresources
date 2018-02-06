@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="core.entity_view_mode.font.full.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="core.entity_view_mode.font.teaser.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="field.field.font.font.field_classification.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="field.field.font.font.field_supported_languages.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="field.field.font.font.field_tags.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="field.storage.font.field_classification.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="field.storage.font.field_supported_languages.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="field.storage.font.field_tags.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="fontyourface.settings.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="taxonomy.vocabulary.font_classification.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="taxonomy.vocabulary.font_designer.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="taxonomy.vocabulary.font_foundry.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="taxonomy.vocabulary.font_tags.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+<file name="taxonomy.vocabulary.languages_supported.yml" server="50.115.112.212" local="131499770400000000" remote="131522421600000000" />
+</dwsync>

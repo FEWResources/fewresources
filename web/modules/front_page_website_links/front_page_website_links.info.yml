@@ -1,0 +1,19 @@
+name: 'Front Page Website Links'
+description: 'Provides Front Page Website Links content type and related configuration. Blocks of different links which allows users to go to other related sites.'
+type: module
+core: 8.x
+dependencies:
+  - block
+  - field
+  - file
+  - image
+  - link
+  - menu_ui
+  - node
+  - path
+  - system
+  - taxonomy
+  - text
+  - user
+  - views
+  - views_random_seed
